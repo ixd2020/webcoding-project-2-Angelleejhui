@@ -45,16 +45,92 @@ ul li a{
     color: #347bd2;
 }
 
-header{
-    align-content: center;
+.header{
+    background-image: url(index_img/holiday20_largetall_2x.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    height: 600px;
+    width: 100%;
 }
 
 .ox{
-    
-    width: auto;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
 }
 
 .ox img{
-    width: 40%;
+    width: 75px;
 }
 
+.headertext{
+    text-align: center;
+}
+
+.headertext h1{
+    font-size: 50px;
+}
+
+.headertext p{
+    font-size: 20px;
+}
+
+.headertext a{
+    text-decoration: none;
+    color: #0065cc;
+}
+
+section{
+    padding-top: 10px;
+}
+
+.iphone{
+    background-image: url(index_img/iphone_12__ejhnn79bn1me_largetall_2x.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 40px;
+    height: 500px;
+    width: 100%;
+}
+
+.iphone h1{
+    font-size: 60px;
+}
+
+.iphone p{
+    font-size: 20px;
+}
+
+.iphone a{
+    text-decoration: none;
+    color: #0065cc;
+}
+
+.iphonepro{
+    background-image: url(index_img/iphone_12_pro__f7ri3g4x75m6_largetall_2x.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 40px;
+    height: 500px;
+    width: 100%;
+    color: white;
+}
+
+.iphonepro h1{
+    font-size: 60px;
+}
+
+.iphonepro p{
+    font-size: 20px;
+}
+
+.iphonepro a{
+    text-decoration: none;
+    color: #0065cc;
+}
