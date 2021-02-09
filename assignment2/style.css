@@ -46,7 +46,7 @@ ul li a{
 }
 
 .header{
-    background-image: url(index_img/holiday20_largetall_2x.jpg);
+    background-image: url(img/index_img/holiday20_largetall_2x.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -87,13 +87,13 @@ section{
 }
 
 .iphone{
-    background-image: url(index_img/iphone_12__ejhnn79bn1me_largetall_2x.jpg);
+    background-image: url(img/index_img/iphone_12__ejhnn79bn1me_largetall_2x.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     text-align: center;
     padding: 40px;
-    height: 500px;
+    height: 600px;
     width: 100%;
 }
 
@@ -111,13 +111,13 @@ section{
 }
 
 .iphonepro{
-    background-image: url(index_img/iphone_12_pro__f7ri3g4x75m6_largetall_2x.jpg);
+    background-image: url(img/index_img/iphone_12_pro__f7ri3g4x75m6_largetall_2x.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     text-align: center;
     padding: 40px;
-    height: 500px;
+    height: 600px;
     width: 100%;
     color: white;
 }
@@ -133,4 +133,506 @@ section{
 .iphonepro a{
     text-decoration: none;
     color: #0065cc;
+}
+
+.parent3{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    height: 600px;
+}
+
+.airpodpro{
+    background-image: url(img/index_img/airpod_tile_large_2x.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    width: 49.5%;;
+    padding: 10px;
+}
+
+.airpodpro h1{
+    font-size: 40px;
+}
+
+.airpodpro p{
+    font-size: 20px;
+}
+
+.airpodpro a{
+    text-decoration: none;
+    color: #0065cc;
+}
+
+.watch{
+    background-color: black;
+    color: white;
+    width: 49.5%;
+    padding: 10px;
+    height: 600px;
+}
+
+.parent4{
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+    padding-top: 10px;
+}
+
+.ipad{
+    background-image: url(img/index_img/tile__cauwwcyyn9hy_large_2x%201.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 49.5%;
+    padding-right: 10px;
+    text-align: center;
+    padding: 40px;
+}
+
+.ipad h1{
+    font-size: 40px;
+}
+
+.ipad p{
+    font-size: 15px;
+}
+
+.ipad a{
+    text-decoration: none;
+    color: #0065cc;
+}
+
+.airpod{
+    width: 49.5%;
+    padding-left: 10px;
+    background-image: url(img/index_img/tile_airpods_max__1fye83e0lle6_large_2x.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 40px;
+}
+
+.airpod h1{
+    font-size: 40px;
+}
+
+.airpod a{
+    text-decoration: none;
+    color: #0065cc;
+}
+
+.parent5{
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+    padding-top: 10px;
+}
+
+.appleone{
+    background-image: url(img/index_img/tile__cauwwcyyn9hy_large_2x2.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 49.5%;
+    padding-right: 10px;
+    text-align: center;
+    padding: 40px;
+}
+
+.appleone p{
+    font-size: 15px;
+}
+
+.appleone a{
+    text-decoration: none;
+    color: #0065cc;
+}
+
+.appletv{
+    width: 49.5%;
+    padding-left: 10px;
+    background-image: url(img/index_img/tile__cauwwcyyn9hy_large_2x3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 40px;
+}
+
+.appletv a{
+    text-decoration: none;
+    color: #0065cc;
+}
+
+.appletv a{
+    text-decoration: none;
+    color: #0065cc;
+}
+
+/*footer*/
+
+footer{
+    background-color: #f5f5f7;
+    color: #89898e;
+    padding-left: 200px;
+    padding-right: 2px;
+    padding-top: 10px;
+    font-size: 12px;
+}
+
+.footer1 p{
+    padding-top: 10px;
+}
+
+.footer2{
+    display: flex;
+}
+
+.f h3{
+    padding-top: 20px;
+    color: black;
+}
+
+.f li{
+    list-style-type: none;
+    padding-top: 10px;
+}
+
+.f li a{ 
+    text-decoration: none;
+    color: #89898e;
+}
+
+.f2{
+    padding-left: 70px;
+}
+
+.f2 h3{
+    padding-top: 20px;
+    color: black;
+}
+
+.f2 li{
+    list-style-type: none;
+    padding-top: 10px;
+}
+
+.f2 li a{ 
+    text-decoration: none;
+    color: #89898e;
+}
+
+.footer3{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.footer3 a{
+    color: #0065cc;
+    text-decoration: none;
+}
+
+.footer4{
+    display: flex;
+    justify-content: left;
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
+
+.footer4 li{
+    margin-left: 30px;
+    list-style-type: none;
+}
+
+.footer4 li a{
+    color: #5e5e61;
+    text-decoration: none;
+}
+
+/*mac*/
+
+.imacnav{
+    background-color: #151515;
+    height: 110px;
+}
+
+.imacnav li{
+    text-align: center;
+    color: white;
+    margin-top: 3px;
+    font-size: 12px;
+    padding-left: 23px;;
+}
+
+.new{
+    font-size: 10px;
+    color: #df5a07;
+}
+
+.parentmac1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.maclogo{
+    width: 100px;
+}
+
+.maclogo img{
+    width: 100%;
+}
+
+.parentmac1 a{
+    color: #0065cc;
+    text-decoration: none;
+}
+
+/*parentmac2*/
+.parentmac2{
+    color: white;
+    display: flex;
+}
+
+.new2{
+    font-size: 20px;
+    color: #df5a07;
+}
+
+.childmac1{
+    background-color: black;
+    width: 40%;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.childmac1 h1{
+    font-size: 50px;
+}
+
+.childmac1 h4{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.childmac1 p{
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.childmac1 a{
+    color: #0065cc;
+    text-decoration: none;
+}
+
+.button {
+    background-color: #0271e2;
+    border: none;
+    color: white;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.button1{
+    border-radius: 30px;
+}
+
+.childmac2{
+    background-image: url(img/mac_img/macbook_air__bfz9o93hnyuq_large_2x.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 60%;
+    height: 600px;
+}
+
+.childmaclink a{
+    color: #0065cc;
+    text-decoration: none;
+}
+
+/*parentmac3*/
+.parentmac3{
+    color: white;
+    display: flex;
+}
+
+.new2{
+    font-size: 20px;
+    color: #df5a07;
+}
+
+.childmac4{
+    background-color: black;
+    width: 40%;
+    padding-top: 100px;
+}
+
+.childmac4 h1{
+    font-size: 50px;
+}
+
+.childmac4 h4{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.childmac4 h3{
+    font-size: 24px;
+    margin-top: 5px;
+}
+
+.childmac4 p{
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.childmac4 a{
+    color: #0065cc;
+    text-decoration: none;
+}
+
+.button {
+    background-color: #0271e2;
+    border: none;
+    color: white;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.button1{
+    border-radius: 30px;
+}
+
+.childmac3{
+    background-color: black;
+    background-image: url(img/mac_img/macbook_pro_13__ft1pc3lqwd6y_large_2x.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 600px;
+}
+
+.childmaclink a{
+    color: #0065cc;
+    text-decoration: none;
+}
+
+/*parent4*/
+.parentmac4{
+    color: white;
+}
+
+.new2{
+    font-size: 20px;
+    color: #df5a07;
+}
+
+.childmac5{
+    background-color: black;
+    width: 40%;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.childmac5 h1{
+    font-size: 50px;
+}
+
+.childmac5 h4{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.childmac5 p{
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.childmac5 a{
+    color: #0065cc;
+    text-decoration: none;
+}
+
+.button {
+    background-color: #0271e2;
+    border: none;
+    color: white;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.button1{
+    border-radius: 30px;
+}
+
+.childmac5{
+    background-image: url(img/mac_img/mac_mini__gc148mlvnziq_large_2x.jpg);
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+}
+
+.childmaclink a{
+    color: #0065cc;
+    text-decoration: none;
+}
+
+/*mac notebook*/
+.macnote{
+    background-color: #f2f2f2;
+    margin: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.macnote1{
+    padding-top: 80px;
+    text-align: center;
+}
+
+.macnote1 p{
+    margin-top: 50px;
+}
+
+.macnote1 a{
+    color: #0065cc;
+    text-decoration: none;
+}
+
+.macnote2{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.macnotechild1{
+    padding-left: 50px;
 }
